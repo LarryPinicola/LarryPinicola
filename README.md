@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning Next.js 13, C# and .Net <br>💬 You can ask me about React.js 
+I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore
 
 
 ## 🌐 Socials:
