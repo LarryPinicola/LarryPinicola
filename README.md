@@ -1,6 +1,5 @@
-#Howdy fellas, This is Larry.
-I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore
-
+<h1 align="center">Hello, This is Larry</h1>
+<h3 align="center">I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100048894316138) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/larrylemondio?fbclid=IwAR0FRObcNeT815tkd-D6mWEm1bp0phXPPgcz2n0lS2iPoI_qyEatJ1IkYYI) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zwe-kyaw-htet-770981278/) 
