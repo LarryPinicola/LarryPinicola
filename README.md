@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hedvig+Letters+Serif&size=21&duration=3000&pause=1000&color=FFFD1E&center=true&vCenter=true&random=false&width=550&lines=Hello%2C+This+is+Larry+the+Lemonade)](https://git.io/typing-svg)
 
+<hr/>
 
 <h3 align="center">I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore</h3>
 
