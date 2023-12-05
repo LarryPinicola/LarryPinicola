@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;Second+line+of+text)](https://git.io/typing-svg)
+
 <h1 align="center">Hello, This is Larry</h1>
 <h3 align="center">I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore</h3>
 
