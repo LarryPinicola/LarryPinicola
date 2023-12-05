@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hedvig+Letters+Serif&size=21&duration=3000&pause=1000&color=FFFD1E&center=true&vCenter=true&random=false&width=550&lines=Hello%2C+This+is+Larry+the+Lemonade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=16FF33&center=true&random=false&width=600&lines=Hello%2C++This+is+LARRY)](https://git.io/typing-svg)
 
 <hr/>
 
