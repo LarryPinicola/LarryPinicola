@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=00296b&text=Hello,%20ThisIsLarry&section=header&reversal=false&textBg=false&fontColor=fca311&fontSize=45&fontAlignY=60&fontAlign=75&animation=twinkling&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=00296b&text=Hello,%20ThisIsLarry&section=header&reversal=false&textBg=false&fontColor=fca311&fontSize=40&fontAlignY=60&fontAlign=75&animation=twinkling&descAlign=50)
 
 <h3 align="center">I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore</h3>
 
