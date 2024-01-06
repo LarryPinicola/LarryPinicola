@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=a6e1fa&text=Hello,%20ThisIsLarry&section=header&reversal=false&textBg=false&fontColor=001c55&fontSize=50&fontAlign=75&animation=twinkling&descAlign=50)
 
-<hr/>
-
 <h3 align="center">I'm a young enthusiast driven by a strong passion for designing captivating websites and creating compelling content. <br> 🌱 I’m currently learning C# and .NetCore</h3>
 
 ## 🌐 Socials:
